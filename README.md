@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Emir, a Computer Engineer passionate about hands-on learning and building efficient solutions with Java, C#, and modern technologies like AWS. I thrive in collaborative environments and enjoy solving problems with precision and clarity.</p>
+<p align="left">Hi, I’m Emir,  a DevOps Engineer passionate about hands-on learning and building reliable, scalable systems. I work with AWS, CI/CD pipelines, and infrastructure automation, and I enjoy building efficient solutions with Java and C#.</p>
 
 ###
 
